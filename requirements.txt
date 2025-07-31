@@ -1,0 +1,6 @@
+torch
+tensorboard
+pandas
+numpy
+scikit-learn
+# Add other dependencies here
